@@ -1,6 +1,1 @@
-To be filled in upon completion
-
-GOALS:
-  -Implementation of basic HTML concepts
-  -Utilization of brutalist design techniques
-  -Regular, properly documented Git commits
+This is a highly satirical take on the first The Odin Project project, which calls for a recipe page. While some of the formatting is taken from external research, I tried to stay mostly within the bounds of what The Odin Project has taught me while still making my website look as good as possible. There's also a little puzzle hidden somewhere in here, so if you like that sort of thing, please enjoy! Hopefully I can make someone chuckle with my homework.
